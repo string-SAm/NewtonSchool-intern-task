@@ -1,0 +1,45 @@
+Assignment: To-Do App using useRef Hook in React
+
+Objective: To assess your understanding of the useRef hook in React.
+
+Task: You are required to build a simple to-do app using the useRef hook in React. The app should allow users to add a task to a list of tasks.
+
+Boilerplate: You will be provided with a Create React App (CRA) boilerplate for your React app.
+
+Requirements:
+
+1. Use the provided CRA boilerplate to build your React app.
+
+2. Implement a React component ToDoApp that uses the useRef hook.
+
+3. The ToDoApp component should have an input field and a submit button.
+
+4. When a user enters a task and clicks the submit button, the task should be added to the list of tasks. The task should be added to the state of the component and the list of tasks should be displayed on the screen.
+
+5. The useRef hook should be used to get a reference to the input field so that its value can be updated when a user adds a task.
+
+6. Write test cases for the ToDoApp component using Cypress. The test cases should cover adding a task to the list of tasks and verifying that the task was added correctly.
+
+Submission:
+
+1. Your React app code.
+
+2. Your test cases written using Cypress.
+
+3. A brief explanation of your solution and how to run your React app and test cases.
+
+Grading:
+
+Your submission will be graded on the following criteria:
+
+- Correct implementation of the useRef hook in the React component.
+
+- Proper use of state to store the list of tasks.
+
+- Proper use of the useRef hook to get a reference to the input field.
+
+- Correct implementation of the functionality to add a task to the list of tasks.
+
+- Adequate test coverage of the ToDoApp component.
+
+- Proper documentation and readability of your code.
